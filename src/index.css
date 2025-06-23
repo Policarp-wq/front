@@ -1,1 +1,8 @@
 @import "tailwindcss";
+* {
+  font-family: "Comic Sans MS", "Comic Sans", cursive !important;
+}
+* {
+  /* border: 1px solid red !important; */
+  box-sizing: border-box;
+}
